@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitAndProgram.iml" filepath="$PROJECT_DIR$/.idea/gitAndProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongVaeUtils/mongVaeUtils.iml" filepath="$PROJECT_DIR$/mongVaeUtils/mongVaeUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLeetCode/myLeetCode.iml" filepath="$PROJECT_DIR$/myLeetCode/myLeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myProject/myProject.iml" filepath="$PROJECT_DIR$/myProject/myProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuisong/tuisong.iml" filepath="$PROJECT_DIR$/tuisong/tuisong.iml" />
+    </modules>
+  </component>
+</project>

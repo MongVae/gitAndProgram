@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bosssoft.gpmscloud:gpmscloud-common-api:2.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-common-api/2.0.1-SNAPSHOT/gpmscloud-common-api-2.0.1-20200910.093042-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-common-api/2.0.1-SNAPSHOT/gpmscloud-common-api-2.0.1-20200910.093042-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-common-api/2.0.1-SNAPSHOT/gpmscloud-common-api-2.0.1-20200910.093042-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

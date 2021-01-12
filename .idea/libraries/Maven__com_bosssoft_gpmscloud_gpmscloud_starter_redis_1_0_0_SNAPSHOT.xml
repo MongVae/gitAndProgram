@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bosssoft.gpmscloud:gpmscloud-starter-redis:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-starter-redis/1.0.0-SNAPSHOT/gpmscloud-starter-redis-1.0.0-20200708.033117-64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-starter-redis/1.0.0-SNAPSHOT/gpmscloud-starter-redis-1.0.0-20200708.033117-64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bosssoft/gpmscloud/gpmscloud-starter-redis/1.0.0-SNAPSHOT/gpmscloud-starter-redis-1.0.0-20200708.033117-64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
